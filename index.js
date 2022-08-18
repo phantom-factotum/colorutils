@@ -19,7 +19,6 @@ function colorGenerator(len = 1, genConfig = {}, printConfig = {}) {
       return colors;
     }
     case "randomSchemes": {
-      console.log("randomschemesssss");
       let colors = randomSchemeGenerator(len, genConfig);
       if (printConfig.printColors) logColors(colors, printConfig);
       return colors;

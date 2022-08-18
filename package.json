@@ -1,6 +1,6 @@
 {
   "name": "@phantom-factotum/colorutils",
-  "version": "0.0.1",
+  "version": "0.0.1a",
   "description": "Color utilities. Color generation, basic color schemes, lighten/darken colors, console logging with color,etc.",
   "main": "index.js",
   "scripts": {},

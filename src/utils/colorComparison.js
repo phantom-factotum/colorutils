@@ -14,9 +14,7 @@ const getColorDist = (color1, color2) => {
 
   let lab1 = convert.hex.lab(color1.toCSS());
   let lab2 = convert.hex.lab(color2.toCSS());
-  // console.log(lab1, lab2);
   let labResult = getDeltaE(lab1, lab2);
-  // console.log(rgbResult, labResult);
   return labResult;
 };
 
