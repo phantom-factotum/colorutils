@@ -1,0 +1,40 @@
+{
+  "name": "@phantom-factotum/colorutils",
+  "version": "0.0.1",
+  "description": "Color utilities. Color generation, basic color schemes, lighten/darken colors, console logging with color,etc.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "color generator",
+    "scheme generation",
+    "color manipulation",
+    "colors",
+    "hex",
+    "rgb",
+    "lighten",
+    "darken",
+    "color",
+    "react-native",
+    "expo"
+  ],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phantom-factotum/colorgenerator.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "color-js": "^1.0.5",
+    "delta-e": "^0.0.8"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "singleQuote": false,
+    "bracketSameLine": false,
+    "printWidth": 75,
+    "semi": true,
+    "arrowParens": "avoid"
+  }
+}
