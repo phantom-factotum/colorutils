@@ -20,7 +20,7 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phantom-factotum/colorgenerator.git"
+    "url": "https://github.com/phantom-factotum/colorutils.git"
   },
   "license": "ISC",
   "dependencies": {
